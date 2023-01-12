@@ -1,0 +1,11 @@
+{
+	"idle_anim": "clyde menu dance",
+	"image": "Menu_Clyde",
+	"position": [
+		-50,
+		-147
+	],
+	"flipX": false,
+	"scale": 0.95,
+	"confirm_anim": "clyde menu dance"
+}

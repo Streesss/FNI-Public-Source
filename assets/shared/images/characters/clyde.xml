@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pastra-clyde.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Clyde Down0000" x="0" y="0" width="783" height="637" frameX="-1" frameY="-8" frameWidth="784" frameHeight="645"/>
+	<SubTexture name="Clyde Down0001" x="783" y="0" width="783" height="637" frameX="-1" frameY="-8" frameWidth="784" frameHeight="645"/>
+	<SubTexture name="Clyde Down0002" x="1566" y="0" width="780" height="639" frameX="0" frameY="-6" frameWidth="784" frameHeight="645"/>
+	<SubTexture name="Clyde Down0003" x="2346" y="0" width="780" height="639" frameX="0" frameY="-6" frameWidth="784" frameHeight="645"/>
+	<SubTexture name="Clyde Down0004" x="3126" y="0" width="774" height="645" frameX="-3" frameY="0" frameWidth="784" frameHeight="645"/>
+	<SubTexture name="Clyde Idle0000" x="3900" y="0" width="598" height="838" frameX="-41" frameY="0" frameWidth="639" frameHeight="838"/>
+	<SubTexture name="Clyde Idle0001" x="4498" y="0" width="598" height="838" frameX="-41" frameY="0" frameWidth="639" frameHeight="838"/>
+	<SubTexture name="Clyde Idle0002" x="5096" y="0" width="615" height="836" frameX="-24" frameY="-2" frameWidth="639" frameHeight="838"/>
+	<SubTexture name="Clyde Idle0003" x="5711" y="0" width="615" height="836" frameX="-24" frameY="-2" frameWidth="639" frameHeight="838"/>
+	<SubTexture name="Clyde Idle0004" x="6326" y="0" width="575" height="832" frameX="-64" frameY="-6" frameWidth="639" frameHeight="838"/>
+	<SubTexture name="Clyde Idle0005" x="6901" y="0" width="575" height="832" frameX="-64" frameY="-6" frameWidth="639" frameHeight="838"/>
+	<SubTexture name="Clyde Idle0006" x="7476" y="0" width="568" height="829" frameX="-71" frameY="-9" frameWidth="639" frameHeight="838"/>
+	<SubTexture name="Clyde Idle0007" x="0" y="838" width="568" height="829" frameX="-71" frameY="-9" frameWidth="639" frameHeight="838"/>
+	<SubTexture name="Clyde Idle0008" x="568" y="838" width="605" height="827" frameX="-34" frameY="-11" frameWidth="639" frameHeight="838"/>
+	<SubTexture name="Clyde Idle0009" x="1173" y="838" width="605" height="827" frameX="-34" frameY="-11" frameWidth="639" frameHeight="838"/>
+	<SubTexture name="Clyde Idle0010" x="1778" y="838" width="639" height="827" frameX="0" frameY="-11" frameWidth="639" frameHeight="838"/>
+	<SubTexture name="Clyde Idle0011" x="2417" y="838" width="639" height="827" frameX="0" frameY="-11" frameWidth="639" frameHeight="838"/>
+	<SubTexture name="Clyde Idle0012" x="3056" y="838" width="639" height="827" frameX="0" frameY="-11" frameWidth="639" frameHeight="838"/>
+	<SubTexture name="Clyde Idle0013" x="3695" y="838" width="639" height="827" frameX="0" frameY="-11" frameWidth="639" frameHeight="838"/>
+	<SubTexture name="Clyde Left0000" x="4334" y="838" width="737" height="808" frameX="0" frameY="-3" frameWidth="737" frameHeight="811"/>
+	<SubTexture name="Clyde Left0001" x="5071" y="838" width="737" height="808" frameX="0" frameY="-3" frameWidth="737" frameHeight="811"/>
+	<SubTexture name="Clyde Left0002" x="5808" y="838" width="732" height="807" frameX="0" frameY="-4" frameWidth="737" frameHeight="811"/>
+	<SubTexture name="Clyde Left0003" x="6540" y="838" width="732" height="807" frameX="0" frameY="-4" frameWidth="737" frameHeight="811"/>
+	<SubTexture name="Clyde Left0004" x="7272" y="838" width="730" height="811" frameX="-1" frameY="0" frameWidth="737" frameHeight="811"/>
+	<SubTexture name="Clyde Right0000" x="0" y="1667" width="839" height="798" frameX="-5" frameY="-11" frameWidth="844" frameHeight="809"/>
+	<SubTexture name="Clyde Right0001" x="839" y="1667" width="839" height="798" frameX="-5" frameY="-11" frameWidth="844" frameHeight="809"/>
+	<SubTexture name="Clyde Right0002" x="1678" y="1667" width="805" height="804" frameX="-2" frameY="-5" frameWidth="844" frameHeight="809"/>
+	<SubTexture name="Clyde Right0003" x="2483" y="1667" width="805" height="804" frameX="-2" frameY="-5" frameWidth="844" frameHeight="809"/>
+	<SubTexture name="Clyde Right0004" x="3288" y="1667" width="784" height="809" frameX="0" frameY="0" frameWidth="844" frameHeight="809"/>
+	<SubTexture name="Clyde Up0000" x="4072" y="1667" width="538" height="951"/>
+	<SubTexture name="Clyde Up0001" x="4610" y="1667" width="538" height="951"/>
+	<SubTexture name="Clyde Up0002" x="5148" y="1667" width="538" height="939" frameX="0" frameY="-12" frameWidth="538" frameHeight="951"/>
+	<SubTexture name="Clyde Up0003" x="5686" y="1667" width="538" height="939" frameX="0" frameY="-12" frameWidth="538" frameHeight="951"/>
+	<SubTexture name="Clyde Up0004" x="6224" y="1667" width="538" height="931" frameX="0" frameY="-20" frameWidth="538" frameHeight="951"/>
+</TextureAtlas>

@@ -1,0 +1,11 @@
+{
+	"idle_anim": "menu winfrey",
+	"image": "Menu_Winfrey",
+	"position": [
+		70,
+		133
+	],
+	"flipX": false,
+	"scale": 0.75,
+	"confirm_anim": "menu winfrey"
+}

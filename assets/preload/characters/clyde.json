@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				340,
+				90
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Clyde Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				291,
+				-121
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Clyde Down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				140,
+				210
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Clyde Up"
+		},
+		{
+			"offsets": [
+				140,
+				60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Clyde Right"
+		},
+		{
+			"offsets": [
+				310,
+				60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Clyde Left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/clyde",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "clyde",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		142,
+		44
+	],
+	"camera_position": [
+		-290,
+		-70
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

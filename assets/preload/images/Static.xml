@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Static.png">
+<SubTexture name="Static0000" x="0" y="0" width="1000" height="534" frameX="0" frameY="0" frameWidth="1000" frameHeight="534" />
+<SubTexture name="Static0001" x="0" y="0" width="1000" height="534" frameX="0" frameY="0" frameWidth="1000" frameHeight="534" />
+<SubTexture name="Static0002" x="1000" y="0" width="1000" height="534" frameX="0" frameY="0" frameWidth="1000" frameHeight="534" />
+<SubTexture name="Static0003" x="1000" y="0" width="1000" height="534" frameX="0" frameY="0" frameWidth="1000" frameHeight="534" />
+<SubTexture name="Static0004" x="0" y="534" width="1000" height="534" frameX="0" frameY="0" frameWidth="1000" frameHeight="534" />
+<SubTexture name="Static0005" x="0" y="534" width="1000" height="534" frameX="0" frameY="0" frameWidth="1000" frameHeight="534" />
+<SubTexture name="Static0006" x="1000" y="534" width="1000" height="534" frameX="0" frameY="0" frameWidth="1000" frameHeight="534" />
+<SubTexture name="Static0007" x="1000" y="534" width="1000" height="534" frameX="0" frameY="0" frameWidth="1000" frameHeight="534" />
+<SubTexture name="Static0008" x="0" y="1068" width="1000" height="534" frameX="0" frameY="0" frameWidth="1000" frameHeight="534" />
+<SubTexture name="Static0009" x="0" y="1068" width="1000" height="534" frameX="0" frameY="0" frameWidth="1000" frameHeight="534" />
+</TextureAtlas>

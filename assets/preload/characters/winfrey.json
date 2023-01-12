@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "",
+			"fps": 24,
+			"name": "",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-20,
+				-171
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "winfrey down"
+		},
+		{
+			"offsets": [
+				374,
+				397
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "winfrey up"
+		},
+		{
+			"offsets": [
+				42,
+				33
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "winfrey right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				275,
+				-56
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "winfrey left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				120
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "winfrey idle dance",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/winfrey",
+	"position": [
+		-360,
+		-770
+	],
+	"healthicon": "icon-winfrey",
+	"flip_x": false,
+	"healthbar_colors": [
+		169,
+		95,
+		255
+	],
+	"camera_position": [
+		-90,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

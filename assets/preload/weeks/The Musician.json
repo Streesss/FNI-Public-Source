@@ -1,0 +1,41 @@
+{
+	"storyName": "The Musician",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"winfrey",
+		""
+	],
+	"songs": [
+		[
+			"Phantasmagoria",
+			"icon-winfrey",
+			[
+				115,
+				113,
+				255
+			]
+		],
+		[
+			"Performance",
+			"icon-winfrey",
+			[
+				115,
+				113,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "The Musician",
+	"hiddenUntilUnlocked": false
+}

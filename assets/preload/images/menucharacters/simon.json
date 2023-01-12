@@ -1,0 +1,11 @@
+{
+	"idle_anim": "simon dance",
+	"image": "Menu_Simon",
+	"position": [
+		40,
+		83
+	],
+	"flipX": false,
+	"scale": 0.75,
+	"confirm_anim": "simon dance"
+}

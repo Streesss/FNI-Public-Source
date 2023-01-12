@@ -1,0 +1,41 @@
+{
+	"storyName": "Trickster",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "winfrey",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Masklophobia",
+			"clyde",
+			[
+				255,
+				113,
+				20
+			]
+		],
+		[
+			"Distrustful",
+			"clyde",
+			[
+				255,
+				113,
+				20
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"clyde",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Smiling-Snatcher"
+}

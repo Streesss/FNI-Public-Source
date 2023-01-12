@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_Clyde.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="clyde menu dance0000" x="0" y="0" width="246" height="208" frameX="0" frameY="-4" frameWidth="246" frameHeight="216"/>
+	<SubTexture name="clyde menu dance0001" x="246" y="0" width="246" height="208" frameX="0" frameY="-4" frameWidth="246" frameHeight="216"/>
+	<SubTexture name="clyde menu dance0002" x="492" y="0" width="246" height="208" frameX="0" frameY="-4" frameWidth="246" frameHeight="216"/>
+	<SubTexture name="clyde menu dance0003" x="738" y="0" width="244" height="216" frameX="0" frameY="0" frameWidth="246" frameHeight="216"/>
+	<SubTexture name="clyde menu dance0004" x="0" y="216" width="244" height="216" frameX="0" frameY="0" frameWidth="246" frameHeight="216"/>
+	<SubTexture name="clyde menu dance0005" x="244" y="216" width="244" height="216" frameX="0" frameY="0" frameWidth="246" frameHeight="216"/>
+	<SubTexture name="clyde menu dance0006" x="488" y="216" width="246" height="208" frameX="0" frameY="-4" frameWidth="246" frameHeight="216"/>
+	<SubTexture name="clyde menu dance0007" x="734" y="216" width="246" height="208" frameX="0" frameY="-4" frameWidth="246" frameHeight="216"/>
+	<SubTexture name="clyde menu dance0008" x="0" y="432" width="246" height="208" frameX="0" frameY="-4" frameWidth="246" frameHeight="216"/>
+	<SubTexture name="clyde menu dance0009" x="246" y="432" width="244" height="216" frameX="0" frameY="0" frameWidth="246" frameHeight="216"/>
+	<SubTexture name="clyde menu dance0010" x="490" y="432" width="244" height="216" frameX="0" frameY="0" frameWidth="246" frameHeight="216"/>
+	<SubTexture name="clyde menu dance0011" x="734" y="432" width="244" height="216" frameX="0" frameY="0" frameWidth="246" frameHeight="216"/>
+</TextureAtlas>

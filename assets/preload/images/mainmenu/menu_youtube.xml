@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_youtube.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="youtube basic0000" x="0" y="0" width="670" height="147"/>
+	<SubTexture name="youtube white0000" x="0" y="147" width="670" height="147"/>
+</TextureAtlas>

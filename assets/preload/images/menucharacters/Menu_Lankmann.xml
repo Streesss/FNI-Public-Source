@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_Lankmann.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="lankmann menu dance0000" x="0" y="0" width="364" height="595" frameX="-3" frameY="-3" frameWidth="367" frameHeight="602"/>
+	<SubTexture name="lankmann menu dance0001" x="364" y="0" width="364" height="595" frameX="-3" frameY="-3" frameWidth="367" frameHeight="602"/>
+	<SubTexture name="lankmann menu dance0002" x="728" y="0" width="364" height="596" frameX="0" frameY="-3" frameWidth="367" frameHeight="602"/>
+	<SubTexture name="lankmann menu dance0003" x="1092" y="0" width="364" height="596" frameX="0" frameY="-3" frameWidth="367" frameHeight="602"/>
+	<SubTexture name="lankmann menu dance0004" x="1456" y="0" width="366" height="602" frameX="0" frameY="0" frameWidth="367" frameHeight="602"/>
+	<SubTexture name="lankmann menu dance0005" x="0" y="602" width="366" height="602" frameX="0" frameY="0" frameWidth="367" frameHeight="602"/>
+	<SubTexture name="lankmann menu dance0006" x="366" y="602" width="366" height="602" frameX="0" frameY="0" frameWidth="367" frameHeight="602"/>
+	<SubTexture name="lankmann menu dance0007" x="732" y="602" width="366" height="602" frameX="0" frameY="0" frameWidth="367" frameHeight="602"/>
+</TextureAtlas>
